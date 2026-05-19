@@ -98,9 +98,12 @@ ul{list-style:none}
 .nav-inner{max-width:var(--max-w);margin:0 auto;padding:0 24px;display:flex;align-items:center;justify-content:space-between;width:100%}
 .nav-logo{display:flex;align-items:center;gap:10px}
 .nav-logo img{height:64px;width:auto}
-.nav-links{display:flex;align-items:center;gap:32px}
+.nav-links{display:flex;align-items:center;gap:16px}
 .nav-links a{color:var(--text2);font-size:14px;font-weight:500;transition:color .2s}
 .nav-links a:hover{color:var(--text)}
+.nav-sep{width:1px;height:16px;background:var(--border2);margin:0 4px}
+.nav-partner{font-size:12px !important;color:var(--text3) !important}
+.nav-partner:hover{color:var(--sky) !important}
 .nav-cta{display:flex;align-items:center;gap:12px}
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:10px 22px;border-radius:50px;font-weight:600;font-size:14px;transition:all .25s var(--silk);white-space:nowrap}
 .btn-primary{background:linear-gradient(135deg,var(--sky),var(--purple));color:#fff;box-shadow:0 4px 20px rgba(74,158,232,0.3)}
@@ -353,9 +356,14 @@ ul{list-style:none}
     <div class="nav-links">
       <a href="#features">Χαρακτηριστικά</a>
       <a href="#pricing">Τιμές</a>
-      <a href="#devices">Συσκευές</a>
-      <a href="#faq">FAQ</a>
-      <a href="#contact">Επικοινωνία</a>
+      <a href="/tutorial">Οδηγός</a>
+      <a href="/channels">Κανάλια</a>
+      <a href="/faq">FAQ</a>
+      <a href="/contact">Επικοινωνία</a>
+      <a href="/blog/">Blog</a>
+      <div class="nav-sep"></div>
+      <a href="https://romaniaiptv.tv" class="nav-partner" rel="nofollow noopener" target="_blank">Romania IPTV</a>
+      <a href="https://tilaaiptv.com" class="nav-partner" rel="nofollow noopener" target="_blank">Tilaa IPTV</a>
     </div>
     <div class="nav-cta">
       <a href="#pricing" class="btn btn-ghost">Δείτε τιμές</a>
@@ -371,9 +379,13 @@ ul{list-style:none}
 <div class="mobile-menu" id="mobileMenu">
   <a href="#features" onclick="closeMobile()">Χαρακτηριστικά</a>
   <a href="#pricing" onclick="closeMobile()">Τιμές</a>
-  <a href="#devices" onclick="closeMobile()">Συσκευές</a>
-  <a href="#faq" onclick="closeMobile()">FAQ</a>
-  <a href="#contact" onclick="closeMobile()">Επικοινωνία</a>
+  <a href="/tutorial" onclick="closeMobile()">Οδηγός</a>
+  <a href="/channels" onclick="closeMobile()">Κανάλια</a>
+  <a href="/faq" onclick="closeMobile()">FAQ</a>
+  <a href="/contact" onclick="closeMobile()">Επικοινωνία</a>
+  <a href="/blog/" onclick="closeMobile()">Blog</a>
+  <a href="https://romaniaiptv.tv" rel="nofollow noopener" target="_blank" onclick="closeMobile()" style="font-size:0.9rem;opacity:.6">Romania IPTV ↗</a>
+  <a href="https://tilaaiptv.com" rel="nofollow noopener" target="_blank" onclick="closeMobile()" style="font-size:0.9rem;opacity:.6">Tilaa IPTV ↗</a>
   <a href="https://wa.me/32497063717" class="btn btn-primary btn-lg" style="margin-top:8px">Ξεκινήστε Τώρα →</a>
 </div>
 
