@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#0F1319"/>
+  <!-- TV screen -->
+  <rect x="200" y="60" width="400" height="250" rx="10" fill="#1a1f2a" stroke="#4A9EE8" stroke-width="3"/>
+  <rect x="215" y="75" width="370" height="220" rx="6" fill="#0d1117"/>
+  <!-- TV stand -->
+  <rect x="360" y="310" width="80" height="20" rx="4" fill="#1a1f2a"/>
+  <rect x="320" y="328" width="160" height="10" rx="4" fill="#4A9EE8"/>
+  <!-- Screen text -->
+  <text x="400" y="170" text-anchor="middle" fill="#4A9EE8" font-family="Arial" font-size="28" font-weight="bold">&#x1F1E6;&#x1F1F1; Albania IPTV</text>
+  <text x="400" y="210" text-anchor="middle" fill="#8B5CF6" font-family="Arial" font-size="18">Δωρεάν Αλβανικά Κανάλια</text>
+  <text x="400" y="250" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="14">HD Quality · No Subscription</text>
+  <!-- Remote control -->
+  <rect x="590" y="200" width="60" height="120" rx="15" fill="#1a1f2a" stroke="#8B5CF6" stroke-width="2"/>
+  <circle cx="620" cy="240" r="15" fill="#4A9EE8"/>
+  <rect x="605" y="275" width="30" height="8" rx="4" fill="#333"/>
+  <rect x="605" y="292" width="30" height="8" rx="4" fill="#333"/>
+  <text x="400" y="400" text-anchor="middle" fill="#666" font-family="Arial" font-size="14">greekiptv.tv – Best IPTV Service</text>
+</svg>
