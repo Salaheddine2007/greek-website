@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#0F1319"/>
+  <rect x="80" y="60" width="640" height="360" rx="14" fill="#1a1f2a" stroke="#4A9EE8" stroke-width="2"/>
+  <rect x="100" y="80" width="600" height="310" rx="8" fill="#0d1117"/>
+  <!-- TV screen lines -->
+  <rect x="100" y="80" width="600" height="4" rx="2" fill="#4A9EE8" opacity="0.5"/>
+  <!-- Main text -->
+  <text x="400" y="185" text-anchor="middle" fill="#4A9EE8" font-family="Arial" font-size="40" font-weight="bold">AlbTV IPTV</text>
+  <text x="400" y="235" text-anchor="middle" fill="#8B5CF6" font-family="Arial" font-size="24">Αλβανικά Κανάλια Online</text>
+  <text x="400" y="285" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17">&#x1F4FA; 200+ κανάλια σε HD &amp; 4K</text>
+  <text x="400" y="320" text-anchor="middle" fill="#8AAEC8" font-family="Arial" font-size="15">&#x1F1E6;&#x1F1F1; Albanian TV · IPTV Streaming</text>
+  <!-- Bottom bar -->
+  <rect x="100" y="385" width="600" height="3" rx="2" fill="#4A9EE8" opacity="0.4"/>
+  <text x="400" y="430" text-anchor="middle" fill="#506070" font-family="Arial" font-size="14">greekiptv.tv</text>
+</svg>
