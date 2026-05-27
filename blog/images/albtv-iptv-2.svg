@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#0F1319"/>
+  <!-- Device icons -->
+  <rect x="60" y="100" width="160" height="120" rx="10" fill="#1a1f2a" stroke="#4A9EE8" stroke-width="1.5"/>
+  <text x="140" y="155" text-anchor="middle" fill="#4A9EE8" font-family="Arial" font-size="30">&#x1F4BB;</text>
+  <text x="140" y="190" text-anchor="middle" fill="#8AAEC8" font-family="Arial" font-size="13">PC / Mac</text>
+  <rect x="250" y="100" width="160" height="120" rx="10" fill="#1a1f2a" stroke="#8B5CF6" stroke-width="1.5"/>
+  <text x="330" y="155" text-anchor="middle" fill="#8B5CF6" font-family="Arial" font-size="30">&#x1F4F1;</text>
+  <text x="330" y="190" text-anchor="middle" fill="#8AAEC8" font-family="Arial" font-size="13">Android / iOS</text>
+  <rect x="440" y="100" width="160" height="120" rx="10" fill="#1a1f2a" stroke="#4A9EE8" stroke-width="1.5"/>
+  <text x="520" y="155" text-anchor="middle" fill="#4A9EE8" font-family="Arial" font-size="30">&#x1F4FA;</text>
+  <text x="520" y="190" text-anchor="middle" fill="#8AAEC8" font-family="Arial" font-size="13">Smart TV</text>
+  <rect x="630" y="100" width="120" height="120" rx="10" fill="#1a1f2a" stroke="#8B5CF6" stroke-width="1.5"/>
+  <text x="690" y="155" text-anchor="middle" fill="#8B5CF6" font-family="Arial" font-size="30">&#x1F525;</text>
+  <text x="690" y="190" text-anchor="middle" fill="#8AAEC8" font-family="Arial" font-size="13">Firestick</text>
+  <!-- Center text -->
+  <text x="400" y="290" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="28" font-weight="bold">AlbTV IPTV Setup</text>
+  <text x="400" y="330" text-anchor="middle" fill="#4A9EE8" font-family="Arial" font-size="18">Εγκατάσταση σε όλες τις συσκευές</text>
+  <!-- Bottom -->
+  <rect x="150" y="385" width="500" height="2" rx="1" fill="#4A9EE8" opacity="0.3"/>
+  <text x="400" y="420" text-anchor="middle" fill="#506070" font-family="Arial" font-size="14">greekiptv.tv · albtv iptv guide</text>
+</svg>
