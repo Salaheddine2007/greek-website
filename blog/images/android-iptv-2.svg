@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F1319;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1f2e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="card" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e2538;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#151b28;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="bar1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4A9EE8" />
+      <stop offset="100%" style="stop-color:#8B5CF6" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg2)" rx="12"/>
+  <!-- Header -->
+  <text x="400" y="55" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="white" text-anchor="middle">Καλύτερες Εφαρμογές Android IPTV</text>
+  <rect x="150" y="65" width="500" height="3" fill="url(#bar1)" rx="2"/>
+  <!-- App Card 1 -->
+  <rect x="60" y="90" width="320" height="120" rx="10" fill="url(#card)" stroke="#4A9EE8" stroke-width="1.5"/>
+  <rect x="60" y="90" width="6" height="120" rx="3" fill="#4A9EE8"/>
+  <text x="80" y="117" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">IPTV Smarters Pro</text>
+  <text x="80" y="137" font-family="Arial, sans-serif" font-size="12" fill="#4A9EE8">★★★★★ 4.8/5</text>
+  <text x="80" y="157" font-family="Arial, sans-serif" font-size="11" fill="#aaa">• Υποστήριξη M3U &amp; Xtream</text>
+  <text x="80" y="173" font-family="Arial, sans-serif" font-size="11" fill="#aaa">• Multi-screen EPG</text>
+  <text x="80" y="189" font-family="Arial, sans-serif" font-size="11" fill="#4A9EE8">✓ Συνιστάται για αρχάριους</text>
+  <!-- App Card 2 -->
+  <rect x="420" y="90" width="320" height="120" rx="10" fill="url(#card)" stroke="#8B5CF6" stroke-width="1.5"/>
+  <rect x="420" y="90" width="6" height="120" rx="3" fill="#8B5CF6"/>
+  <text x="440" y="117" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">TiviMate IPTV Player</text>
+  <text x="440" y="137" font-family="Arial, sans-serif" font-size="12" fill="#8B5CF6">★★★★★ 4.9/5</text>
+  <text x="440" y="157" font-family="Arial, sans-serif" font-size="11" fill="#aaa">• Καλύτερο για Android TV</text>
+  <text x="440" y="173" font-family="Arial, sans-serif" font-size="11" fill="#aaa">• Εγγραφή &amp; Replay</text>
+  <text x="440" y="189" font-family="Arial, sans-serif" font-size="11" fill="#8B5CF6">✓ Pro version €4.99/έτος</text>
+  <!-- App Card 3 -->
+  <rect x="60" y="230" width="320" height="120" rx="10" fill="url(#card)" stroke="#4A9EE8" stroke-width="1.5"/>
+  <rect x="60" y="230" width="6" height="120" rx="3" fill="#4A9EE8"/>
+  <text x="80" y="257" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">GSE Smart IPTV</text>
+  <text x="80" y="277" font-family="Arial, sans-serif" font-size="12" fill="#4A9EE8">★★★★☆ 4.5/5</text>
+  <text x="80" y="297" font-family="Arial, sans-serif" font-size="11" fill="#aaa">• Cross-platform (iOS &amp; Android)</text>
+  <text x="80" y="313" font-family="Arial, sans-serif" font-size="11" fill="#aaa">• Advanced playlist manager</text>
+  <text x="80" y="329" font-family="Arial, sans-serif" font-size="11" fill="#4A9EE8">✓ Δωρεάν με διαφημίσεις</text>
+  <!-- App Card 4 -->
+  <rect x="420" y="230" width="320" height="120" rx="10" fill="url(#card)" stroke="#8B5CF6" stroke-width="1.5"/>
+  <rect x="420" y="230" width="6" height="120" rx="3" fill="#8B5CF6"/>
+  <text x="440" y="257" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Perfect Player IPTV</text>
+  <text x="440" y="277" font-family="Arial, sans-serif" font-size="12" fill="#8B5CF6">★★★★☆ 4.4/5</text>
+  <text x="440" y="297" font-family="Arial, sans-serif" font-size="11" fill="#aaa">• Ιδανικό για TV Box</text>
+  <text x="440" y="313" font-family="Arial, sans-serif" font-size="11" fill="#aaa">• Υποστήριξη DLNA</text>
+  <text x="440" y="329" font-family="Arial, sans-serif" font-size="11" fill="#8B5CF6">✓ Πλήρως δωρεάν</text>
+  <!-- Footer -->
+  <text x="400" y="400" font-family="Arial, sans-serif" font-size="14" fill="#777" text-anchor="middle">Όλες οι εφαρμογές λειτουργούν με</text>
+  <text x="400" y="425" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="url(#bar1)" text-anchor="middle">greekiptv.tv</text>
+  <text x="400" y="450" font-family="Arial, sans-serif" font-size="13" fill="#555" text-anchor="middle">Η #1 ελληνική υπηρεσία IPTV παγκοσμίως</text>
+</svg>
