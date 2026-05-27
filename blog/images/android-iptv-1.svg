@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F1319;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a2035;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="screen" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e2a3a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1520;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="btn" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4A9EE8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bg)" rx="12"/>
+  <!-- Android phone outline -->
+  <rect x="270" y="50" width="180" height="320" rx="20" ry="20" fill="#2a2f3e" stroke="#4A9EE8" stroke-width="2"/>
+  <!-- Phone screen -->
+  <rect x="282" y="80" width="156" height="250" fill="url(#screen)" rx="4"/>
+  <!-- Screen content - streaming icon -->
+  <circle cx="360" cy="185" r="45" fill="none" stroke="#4A9EE8" stroke-width="3" opacity="0.6"/>
+  <polygon points="347,165 347,205 385,185" fill="#4A9EE8"/>
+  <!-- Greek flag colors bar -->
+  <rect x="282" y="80" width="156" height="8" fill="#4A9EE8" rx="2"/>
+  <!-- Channel bars -->
+  <rect x="292" y="245" width="136" height="6" fill="#4A9EE8" opacity="0.4" rx="3"/>
+  <rect x="292" y="258" width="100" height="4" fill="#8B5CF6" opacity="0.4" rx="2"/>
+  <rect x="292" y="268" width="120" height="4" fill="#4A9EE8" opacity="0.3" rx="2"/>
+  <!-- Home button -->
+  <circle cx="360" cy="355" r="10" fill="none" stroke="#4A9EE8" stroke-width="2"/>
+  <!-- WiFi signal -->
+  <text x="300" y="70" font-family="Arial" font-size="10" fill="#4A9EE8">📶 HD</text>
+  <!-- Title text -->
+  <text x="400" y="140" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">Android IPTV</text>
+  <text x="400" y="175" font-family="Arial, sans-serif" font-size="16" fill="#4A9EE8" text-anchor="middle">Ελληνική Τηλεόραση</text>
+  <text x="400" y="200" font-family="Arial, sans-serif" font-size="14" fill="#8B5CF6" text-anchor="middle">στο κινητό σου</text>
+  <!-- Feature bullets -->
+  <circle cx="385" cy="240" r="4" fill="#4A9EE8"/>
+  <text x="396" y="244" font-family="Arial, sans-serif" font-size="13" fill="#ccc">200+ Ελληνικά Κανάλια</text>
+  <circle cx="385" cy="265" r="4" fill="#8B5CF6"/>
+  <text x="396" y="269" font-family="Arial, sans-serif" font-size="13" fill="#ccc">Live &amp; On-Demand</text>
+  <circle cx="385" cy="290" r="4" fill="#4A9EE8"/>
+  <text x="396" y="294" font-family="Arial, sans-serif" font-size="13" fill="#ccc">4K Ultra HD Ποιότητα</text>
+  <!-- Logo -->
+  <text x="400" y="360" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="url(#btn)" text-anchor="middle">greekiptv.tv</text>
+  <!-- Streaming waves -->
+  <path d="M 230 185 Q 240 170 250 185 Q 260 200 270 185" stroke="#4A9EE8" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M 215 185 Q 232 155 250 185 Q 268 215 285 185" stroke="#4A9EE8" stroke-width="2" fill="none" opacity="0.3"/>
+  <path d="M 200 185 Q 225 140 250 185 Q 275 230 300 185" stroke="#4A9EE8" stroke-width="2" fill="none" opacity="0.15"/>
+</svg>
