@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F1319;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1A2130;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="acc2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4A9EE8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg2)"/>
+  <!-- Title area -->
+  <rect x="0" y="0" width="800" height="70" fill="#141920"/>
+  <text x="400" y="30" font-family="Arial,sans-serif" font-size="18" fill="#E4EEF8" font-weight="bold" text-anchor="middle">Ρύθμιση IPTV Player στα Windows — Βήμα προς Βήμα</text>
+  <text x="400" y="55" font-family="Arial,sans-serif" font-size="13" fill="#4A9EE8" text-anchor="middle">greekiptv.tv — Ελληνική Τηλεόραση Παντού</text>
+  <!-- Step 1 -->
+  <rect x="40" y="90" width="220" height="130" rx="12" fill="#141920" stroke="#2A4060" stroke-width="1"/>
+  <circle cx="90" cy="120" r="20" fill="url(#acc2)"/>
+  <text x="90" y="127" font-family="Arial,sans-serif" font-size="18" fill="white" font-weight="bold" text-anchor="middle">1</text>
+  <text x="150" y="118" font-family="Arial,sans-serif" font-size="13" fill="#E4EEF8" font-weight="bold">Κατέβασε τον</text>
+  <text x="150" y="134" font-family="Arial,sans-serif" font-size="13" fill="#E4EEF8" font-weight="bold">IPTV Player</text>
+  <text x="55" y="165" font-family="Arial,sans-serif" font-size="11" fill="#8AAEC8">VLC, Kodi ή IPTV Smarters</text>
+  <text x="55" y="183" font-family="Arial,sans-serif" font-size="11" fill="#8AAEC8">δωρεάν για Windows PC</text>
+  <text x="55" y="205" font-family="Arial,sans-serif" font-size="11" fill="#4A9EE8">✓ Δωρεάν εγκατάσταση</text>
+  <!-- Step 2 -->
+  <rect x="290" y="90" width="220" height="130" rx="12" fill="#141920" stroke="#2A4060" stroke-width="1"/>
+  <circle cx="340" cy="120" r="20" fill="url(#acc2)"/>
+  <text x="340" y="127" font-family="Arial,sans-serif" font-size="18" fill="white" font-weight="bold" text-anchor="middle">2</text>
+  <text x="400" y="118" font-family="Arial,sans-serif" font-size="13" fill="#E4EEF8" font-weight="bold">Εισαγωγή</text>
+  <text x="400" y="134" font-family="Arial,sans-serif" font-size="13" fill="#E4EEF8" font-weight="bold">Λίστας M3U</text>
+  <text x="305" y="165" font-family="Arial,sans-serif" font-size="11" fill="#8AAEC8">Πρόσθεσε τη λίστα από το</text>
+  <text x="305" y="183" font-family="Arial,sans-serif" font-size="11" fill="#8AAEC8">Greek IPTV στον player σου</text>
+  <text x="305" y="205" font-family="Arial,sans-serif" font-size="11" fill="#4A9EE8">✓ Εύκολη ρύθμιση</text>
+  <!-- Step 3 -->
+  <rect x="540" y="90" width="220" height="130" rx="12" fill="#141920" stroke="#2A4060" stroke-width="1"/>
+  <circle cx="590" cy="120" r="20" fill="url(#acc2)"/>
+  <text x="590" y="127" font-family="Arial,sans-serif" font-size="18" fill="white" font-weight="bold" text-anchor="middle">3</text>
+  <text x="650" y="118" font-family="Arial,sans-serif" font-size="13" fill="#E4EEF8" font-weight="bold">Παρακολούθηση</text>
+  <text x="650" y="134" font-family="Arial,sans-serif" font-size="13" fill="#E4EEF8" font-weight="bold">Ελληνικής TV</text>
+  <text x="555" y="165" font-family="Arial,sans-serif" font-size="11" fill="#8AAEC8">+30.000 κανάλια HD/4K</text>
+  <text x="555" y="183" font-family="Arial,sans-serif" font-size="11" fill="#8AAEC8">αμέσως στον υπολογιστή σου</text>
+  <text x="555" y="205" font-family="Arial,sans-serif" font-size="11" fill="#4A9EE8">✓ Άμεση απόλαυση</text>
+  <!-- Stats section -->
+  <rect x="40" y="250" width="720" height="100" rx="12" fill="#141920" stroke="#1E3050" stroke-width="1"/>
+  <text x="400" y="275" font-family="Arial,sans-serif" font-size="14" fill="#8AAEC8" text-anchor="middle">Γιατί να επιλέξεις το Greek IPTV για τα Windows σου;</text>
+  <rect x="80" y="290" width="140" height="40" rx="8" fill="#0D2A44"/>
+  <text x="150" y="308" font-family="Arial,sans-serif" font-size="13" fill="#4A9EE8" font-weight="bold" text-anchor="middle">+30.000</text>
+  <text x="150" y="323" font-family="Arial,sans-serif" font-size="10" fill="#8AAEC8" text-anchor="middle">Κανάλια</text>
+  <rect x="250" y="290" width="140" height="40" rx="8" fill="#0D2A44"/>
+  <text x="320" y="308" font-family="Arial,sans-serif" font-size="13" fill="#4A9EE8" font-weight="bold" text-anchor="middle">99.9%</text>
+  <text x="320" y="323" font-family="Arial,sans-serif" font-size="10" fill="#8AAEC8" text-anchor="middle">Uptime</text>
+  <rect x="420" y="290" width="140" height="40" rx="8" fill="#0D2A44"/>
+  <text x="490" y="308" font-family="Arial,sans-serif" font-size="13" fill="#4A9EE8" font-weight="bold" text-anchor="middle">4K/8K</text>
+  <text x="490" y="323" font-family="Arial,sans-serif" font-size="10" fill="#8AAEC8" text-anchor="middle">Ανάλυση</text>
+  <rect x="590" y="290" width="140" height="40" rx="8" fill="#0D2A44"/>
+  <text x="660" y="308" font-family="Arial,sans-serif" font-size="13" fill="#4A9EE8" font-weight="bold" text-anchor="middle">24/7</text>
+  <text x="660" y="323" font-family="Arial,sans-serif" font-size="10" fill="#8AAEC8" text-anchor="middle">Υποστήριξη</text>
+  <!-- CTA -->
+  <rect x="250" y="370" width="300" height="50" rx="25" fill="url(#acc2)"/>
+  <text x="400" y="401" font-family="Arial,sans-serif" font-size="16" fill="white" font-weight="bold" text-anchor="middle">Ξεκίνα από €10.99/μήνα</text>
+</svg>
