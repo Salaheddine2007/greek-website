@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F1319"/>
+      <stop offset="100%" style="stop-color:#1A2130"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4A9EE8"/>
+      <stop offset="100%" style="stop-color:#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg2)"/>
+  <!-- Connection diagram -->
+  <rect x="60" y="170" width="140" height="70" rx="12" fill="#1E2838" stroke="#4A9EE8" stroke-width="1.5"/>
+  <text x="130" y="198" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="13" fill="#4A9EE8" font-weight="600">Greek IPTV</text>
+  <text x="130" y="216" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="11" fill="#8AAEC8">greekiptv.tv</text>
+  <text x="130" y="232" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="10" fill="#506070">Server</text>
+  <!-- Arrow -->
+  <line x1="200" y1="205" x2="290" y2="205" stroke="#4A9EE8" stroke-width="2" stroke-dasharray="6,3"/>
+  <polygon points="290,200 300,205 290,210" fill="#4A9EE8"/>
+  <!-- M3U box -->
+  <rect x="300" y="170" width="140" height="70" rx="12" fill="#1E2838" stroke="#8B5CF6" stroke-width="1.5"/>
+  <text x="370" y="198" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="13" fill="#8B5CF6" font-weight="600">M3U / Xtream</text>
+  <text x="370" y="216" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="11" fill="#8AAEC8">Playlist URL</text>
+  <text x="370" y="232" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="10" fill="#506070">API Connection</text>
+  <!-- Arrow -->
+  <line x1="440" y1="205" x2="530" y2="205" stroke="#8B5CF6" stroke-width="2" stroke-dasharray="6,3"/>
+  <polygon points="530,200 540,205 530,210" fill="#8B5CF6"/>
+  <!-- Android box -->
+  <rect x="540" y="170" width="140" height="70" rx="12" fill="#1E2838" stroke="#3DCC8E" stroke-width="1.5"/>
+  <text x="610" y="198" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="13" fill="#3DCC8E" font-weight="600">Android Player</text>
+  <text x="610" y="216" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="11" fill="#8AAEC8">IPTV Smarters</text>
+  <text x="610" y="232" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="10" fill="#506070">TiviMate · GSE</text>
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="22" font-weight="700" fill="url(#accent2)">Σύνδεση IPTV σε Android</text>
+  <text x="400" y="65" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="14" fill="#8AAEC8">Βήμα-προς-Βήμα Οδηγός Εγκατάστασης</text>
+  <!-- Steps below -->
+  <rect x="100" y="280" width="180" height="50" rx="8" fill="#141920" stroke="#4A9EE8" stroke-width="1"/>
+  <text x="190" y="303" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="12" fill="#4A9EE8" font-weight="600">1. Εγκατάσταση Player</text>
+  <text x="190" y="320" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="11" fill="#8AAEC8">Google Play / APK</text>
+  <rect x="310" y="280" width="180" height="50" rx="8" fill="#141920" stroke="#8B5CF6" stroke-width="1"/>
+  <text x="400" y="303" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="12" fill="#8B5CF6" font-weight="600">2. Εισαγωγή M3U URL</text>
+  <text x="400" y="320" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="11" fill="#8AAEC8">Ή Xtream Codes API</text>
+  <rect x="520" y="280" width="180" height="50" rx="8" fill="#141920" stroke="#3DCC8E" stroke-width="1"/>
+  <text x="610" y="303" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="12" fill="#3DCC8E" font-weight="600">3. Απόλαυσε!</text>
+  <text x="610" y="320" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="11" fill="#8AAEC8">+30.000 κανάλια</text>
+  <text x="400" y="420" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="12" fill="#506070">greekiptv.tv — Greek IPTV Service</text>
+</svg>
