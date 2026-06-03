@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F1319"/>
+      <stop offset="100%" style="stop-color:#1A2130"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4A9EE8"/>
+      <stop offset="100%" style="stop-color:#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E2838"/>
+      <stop offset="100%" style="stop-color:#141920"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <!-- Decorative circles -->
+  <circle cx="650" cy="80" r="120" fill="#4A9EE8" opacity="0.05"/>
+  <circle cx="100" cy="380" r="90" fill="#8B5CF6" opacity="0.07"/>
+  <!-- Screen card -->
+  <rect x="80" y="70" width="400" height="260" rx="16" fill="url(#card)" stroke="#1E3050" stroke-width="1.5"/>
+  <rect x="80" y="70" width="400" height="30" rx="16" fill="#141920"/>
+  <rect x="80" y="86" width="400" height="14" fill="#141920"/>
+  <!-- Traffic lights -->
+  <circle cx="104" cy="85" r="6" fill="#FF5F57"/>
+  <circle cx="124" cy="85" r="6" fill="#FEBC2E"/>
+  <circle cx="144" cy="85" r="6" fill="#28C840"/>
+  <!-- Play button -->
+  <circle cx="280" cy="210" r="60" fill="url(#blue)" opacity="0.9"/>
+  <polygon points="265,190 265,230 305,210" fill="white"/>
+  <!-- FREE TRIAL badge -->
+  <rect x="180" y="290" width="200" height="36" rx="18" fill="url(#blue)"/>
+  <text x="280" y="313" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">FREE TRIAL — 24 ΏΡΕς</text>
+  <!-- Right side content -->
+  <text x="540" y="140" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#E4EEF8" text-anchor="middle">IPTV</text>
+  <text x="540" y="175" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#4A9EE8" text-anchor="middle">Free Trial</text>
+  <text x="540" y="210" font-family="Arial, sans-serif" font-size="13" fill="#8AAEC8" text-anchor="middle">Δοκιμάστε δωρεάν</text>
+  <text x="540" y="232" font-family="Arial, sans-serif" font-size="13" fill="#8AAEC8" text-anchor="middle">χωρίς πιστωτική κάρτα</text>
+  <!-- Features -->
+  <text x="490" y="275" font-family="Arial, sans-serif" font-size="12" fill="#3DCC8E">✓</text>
+  <text x="510" y="275" font-family="Arial, sans-serif" font-size="12" fill="#8AAEC8">+30.000 κανάλια</text>
+  <text x="490" y="300" font-family="Arial, sans-serif" font-size="12" fill="#3DCC8E">✓</text>
+  <text x="510" y="300" font-family="Arial, sans-serif" font-size="12" fill="#8AAEC8">+150.000 ταινίες</text>
+  <text x="490" y="325" font-family="Arial, sans-serif" font-size="12" fill="#3DCC8E">✓</text>
+  <text x="510" y="325" font-family="Arial, sans-serif" font-size="12" fill="#8AAEC8">Ελληνικά κανάλια 4K</text>
+  <!-- URL -->
+  <text x="400" y="420" font-family="Arial, sans-serif" font-size="13" fill="#506070" text-anchor="middle">greekiptv.tv — IPTV Free Trial 2026</text>
+</svg>
