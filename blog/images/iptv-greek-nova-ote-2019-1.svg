@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F1319"/>
+      <stop offset="100%" style="stop-color:#1A2130"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4A9EE8"/>
+      <stop offset="100%" style="stop-color:#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <!-- TV Screen -->
+  <rect x="200" y="80" width="400" height="240" rx="12" fill="#1E2838" stroke="#4A9EE8" stroke-width="2"/>
+  <rect x="215" y="95" width="370" height="210" rx="8" fill="#141920"/>
+  <!-- Screen content lines -->
+  <rect x="230" y="120" width="200" height="14" rx="4" fill="url(#accent)" opacity="0.8"/>
+  <rect x="230" y="145" width="300" height="10" rx="3" fill="#506070"/>
+  <rect x="230" y="165" width="260" height="10" rx="3" fill="#506070"/>
+  <rect x="230" y="185" width="280" height="10" rx="3" fill="#506070"/>
+  <!-- Channel badges -->
+  <rect x="430" y="115" width="80" height="30" rx="6" fill="#4A9EE8" opacity="0.2"/>
+  <text x="470" y="135" font-family="Arial" font-size="11" fill="#4A9EE8" text-anchor="middle" font-weight="bold">NOVA</text>
+  <rect x="430" y="155" width="80" height="30" rx="6" fill="#8B5CF6" opacity="0.2"/>
+  <text x="470" y="175" font-family="Arial" font-size="11" fill="#8B5CF6" text-anchor="middle" font-weight="bold">OTE TV</text>
+  <rect x="430" y="195" width="80" height="30" rx="6" fill="#3DCC8E" opacity="0.2"/>
+  <text x="470" y="215" font-family="Arial" font-size="11" fill="#3DCC8E" text-anchor="middle" font-weight="bold">COSMOTE</text>
+  <!-- TV stand -->
+  <rect x="375" y="320" width="50" height="20" rx="4" fill="#1E2838"/>
+  <rect x="340" y="338" width="120" height="8" rx="4" fill="#1E2838"/>
+  <!-- Title text -->
+  <text x="400" y="390" font-family="Arial" font-size="20" font-weight="bold" fill="#E4EEF8" text-anchor="middle">IPTV Greek Nova OTE</text>
+  <text x="400" y="415" font-family="Arial" font-size="13" fill="#8AAEC8" text-anchor="middle">Ελληνική IPTV με Nova &amp; OTE TV κανάλια</text>
+  <!-- Decorative dots -->
+  <circle cx="90" cy="80" r="40" fill="#4A9EE8" opacity="0.05"/>
+  <circle cx="710" cy="370" r="60" fill="#8B5CF6" opacity="0.05"/>
+</svg>
