@@ -1,4 +1,12 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "www.greekiptv.tv" }],
+      "destination": "https://greekiptv.tv/$1",
+      "permanent": true
+    }
+  ]
 }
