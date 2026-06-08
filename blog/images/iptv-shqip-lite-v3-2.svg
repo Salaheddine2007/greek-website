@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#0F1319"/>
+  <rect x="60" y="40" width="680" height="370" rx="14" fill="#141920" stroke="#8B5CF6" stroke-width="2"/>
+  <text x="400" y="100" text-anchor="middle" fill="#8B5CF6" font-family="Arial" font-size="26" font-weight="bold">Σύγκριση IPTV Shqip Lite v3</text>
+  <!-- Col headers -->
+  <text x="220" y="145" text-anchor="middle" fill="#8AAEC8" font-family="Arial" font-size="16">Δωρεάν IPTV</text>
+  <text x="560" y="145" text-anchor="middle" fill="#4A9EE8" font-family="Arial" font-size="16" font-weight="bold">Greek IPTV Pro</text>
+  <!-- Rows -->
+  <text x="90" y="185" fill="#8AAEC8" font-family="Arial" font-size="14">Σταθερότητα</text>
+  <text x="220" y="185" text-anchor="middle" fill="#e05a5a" font-family="Arial" font-size="14">&#x274C; Αστάθεια</text>
+  <text x="560" y="185" text-anchor="middle" fill="#3DCC8E" font-family="Arial" font-size="14">&#x2705; 99.9% Uptime</text>
+  <text x="90" y="225" fill="#8AAEC8" font-family="Arial" font-size="14">Ποιότητα</text>
+  <text x="220" y="225" text-anchor="middle" fill="#e05a5a" font-family="Arial" font-size="14">&#x274C; SD/360p</text>
+  <text x="560" y="225" text-anchor="middle" fill="#3DCC8E" font-family="Arial" font-size="14">&#x2705; 4K / HD</text>
+  <text x="90" y="265" fill="#8AAEC8" font-family="Arial" font-size="14">Κανάλια</text>
+  <text x="220" y="265" text-anchor="middle" fill="#e05a5a" font-family="Arial" font-size="14">&#x274C; Λίγα</text>
+  <text x="560" y="265" text-anchor="middle" fill="#3DCC8E" font-family="Arial" font-size="14">&#x2705; +30.000</text>
+  <text x="90" y="305" fill="#8AAEC8" font-family="Arial" font-size="14">Ασφάλεια</text>
+  <text x="220" y="305" text-anchor="middle" fill="#e05a5a" font-family="Arial" font-size="14">&#x274C; Κίνδυνος</text>
+  <text x="560" y="305" text-anchor="middle" fill="#3DCC8E" font-family="Arial" font-size="14">&#x2705; Πλήρης</text>
+  <text x="90" y="345" fill="#8AAEC8" font-family="Arial" font-size="14">Υποστήριξη</text>
+  <text x="220" y="345" text-anchor="middle" fill="#e05a5a" font-family="Arial" font-size="14">&#x274C; Καμία</text>
+  <text x="560" y="345" text-anchor="middle" fill="#3DCC8E" font-family="Arial" font-size="14">&#x2705; 24/7</text>
+  <line x1="400" y1="120" x2="400" y2="375" stroke="#1E3050" stroke-width="1"/>
+  <text x="400" y="415" text-anchor="middle" fill="#506070" font-family="Arial" font-size="13">greekiptv.tv · Η #1 Επιλογή IPTV</text>
+</svg>
