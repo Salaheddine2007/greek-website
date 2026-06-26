@@ -1,856 +1,858 @@
 {
-  "keywords": [
-    {
-      "keyword": "greek iptv free",
-      "intent": null,
-      "volume": 90,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-25",
-      "url": "https://greekiptv.tv/blog/greek-iptv-free/"
-    },
-    {
-      "keyword": "greek iptv m3u",
-      "intent": null,
-      "volume": 90,
-      "kd": 0,
-      "cpc": 0,
-      "status": "pending"
-    },
-    {
-      "keyword": "box iptv",
-      "intent": null,
-      "volume": 70,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-20",
-      "url": "https://greekiptv.tv/blog/box-iptv"
-    },
-    {
-      "keyword": "iptv box",
-      "intent": null,
-      "volume": 70,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-21",
-      "url": "https://greekiptv.tv/blog/iptv-box"
-    },
-    {
-      "keyword": "iptv greek channels",
-      "intent": null,
-      "volume": 70,
-      "kd": 0,
-      "cpc": 0,
-      "status": "pending"
-    },
-    {
-      "keyword": "iptv abonnement",
-      "intent": "Informational",
-      "volume": 40,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-22",
-      "url": "https://greekiptv.tv/blog/iptv-abonnement"
-    },
-    {
-      "keyword": "iptv restream",
-      "intent": null,
-      "volume": 40,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-23",
-      "url": "https://greekiptv.tv/blog/iptv-restream"
-    },
-    {
-      "keyword": "ultimate iptv",
-      "intent": null,
-      "volume": 40,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-24",
-      "url": "https://greekiptv.tv/blog/ultimate-iptv"
-    },
-    {
-      "keyword": "xtream codes iptv apk",
-      "intent": null,
-      "volume": 40,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-24",
-      "url": "https://greekiptv.tv/blog/xtream-codes-iptv-apk.html"
-    },
-    {
-      "keyword": "καλυτερη iptv",
-      "intent": null,
-      "volume": 40,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-25",
-      "url": "https://greekiptv.tv/blog/kalyteri-iptv"
-    },
-    {
-      "keyword": "4k iptv",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-25",
-      "url": "https://greekiptv.tv/blog/4k-iptv"
-    },
-    {
-      "keyword": "adult iptv",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-26",
-      "url": "https://greekiptv.tv/blog/adult-iptv"
-    },
-    {
-      "keyword": "albania iptv free",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-26",
-      "url": "https://greekiptv.tv/blog/albania-iptv-free"
-    },
-    {
-      "keyword": "albtv iptv",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-27",
-      "url": "https://greekiptv.tv/blog/albtv-iptv"
-    },
-    {
-      "keyword": "android iptv",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-27",
-      "url": "https://greekiptv.tv/blog/android-iptv"
-    },
-    {
-      "keyword": "avclub iptv",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-28",
-      "url": "https://greekiptv.tv/blog/avclub-iptv"
-    },
-    {
-      "keyword": "bes iptv",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-29",
-      "url": "https://greekiptv.tv/blog/bes-iptv"
-    },
-    {
-      "keyword": "best free iptv android",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-29",
-      "url": "https://greekiptv.tv/blog/best-free-iptv-android"
-    },
-    {
-      "keyword": "best free iptv app",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-29",
-      "url": "https://greekiptv.tv/blog/best-free-iptv-app"
-    },
-    {
-      "keyword": "best free iptv player for windows",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-30",
-      "url": "https://greekiptv.tv/blog/best-free-iptv-player-for-windows"
-    },
-    {
-      "keyword": "best greek iptv",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-30",
-      "url": "https://greekiptv.tv/blog/best-greek-iptv"
-    },
-    {
-      "keyword": "best iptv for smart tv",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-30",
-      "url": "https://greekiptv.tv/blog/best-iptv-for-smart-tv"
-    },
-    {
-      "keyword": "best iptv kodi",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-31",
-      "url": "https://greekiptv.tv/blog/best-iptv-kodi"
-    },
-    {
-      "keyword": "best iptv player android",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-31",
-      "url": "https://greekiptv.tv/blog/best-iptv-player-android"
-    },
-    {
-      "keyword": "best iptv player for samsung tv",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-05-31",
-      "url": "https://greekiptv.tv/blog/best-iptv-player-for-samsung-tv"
-    },
-    {
-      "keyword": "best iptv player for windows",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-01",
-      "url": "https://greekiptv.tv/blog/best-iptv-player-for-windows"
-    },
-    {
-      "keyword": "best iptv reddit",
-      "intent": null,
-      "volume": 30,
-      "kd": 0,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-02",
-      "url": "https://greekiptv.tv/blog/best-iptv-reddit.html"
-    },
-    {
-      "keyword": "iptv free trial",
-      "intent": "Informational",
-      "volume": 140,
-      "kd": 2,
-      "cpc": 0.14,
-      "status": "done",
-      "posted_date": "2026-06-03",
-      "url": "https://greekiptv.tv/blog/iptv-free-trial"
-    },
-    {
-      "keyword": "m3u iptv greek",
-      "intent": "Informational",
-      "volume": 260,
-      "kd": 6,
-      "cpc": 0,
-      "status": "done",
-      "slug": "m3u-iptv-greek",
-      "posted_date": "2026-06-24",
-      "url": "https://greekiptv.tv/blog/m3u-iptv-greek/"
-    },
-    {
-      "keyword": "iptv m3u greek",
-      "intent": "Informational",
-      "volume": 140,
-      "kd": 6,
-      "cpc": 0,
-      "status": "pending"
-    },
-    {
-      "keyword": "iptv greek nova ote 2019",
-      "intent": "Informational",
-      "volume": 90,
-      "kd": 6,
-      "cpc": 0,
-      "status": "pending"
-    },
-    {
-      "keyword": "ελληνικη iptv",
-      "intent": "Informational",
-      "volume": 110,
-      "kd": 12,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-05",
-      "url": "https://greekiptv.tv/blog/ellinikh-iptv"
-    },
-    {
-      "keyword": "ελληνικο iptv",
-      "intent": "Informational",
-      "volume": 110,
-      "kd": 12,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-05",
-      "url": "https://greekiptv.tv/blog/elliniko-iptv"
-    },
-    {
-      "keyword": "iptv cosmote nova",
-      "intent": "Informational",
-      "volume": 140,
-      "kd": 13,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-06",
-      "url": "https://greekiptv.tv/blog/iptv-cosmote-nova"
-    },
-    {
-      "keyword": "iptv ge mtavari arxi",
-      "intent": "Navigational",
-      "volume": 70,
-      "kd": 13,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-07",
-      "url": "https://greekiptv.tv/blog/iptv-ge-mtavari-arxi"
-    },
-    {
-      "keyword": "e doctor iptv",
-      "intent": "Informational",
-      "volume": 40,
-      "kd": 13,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-07",
-      "url": "https://greekiptv.tv/blog/e-doctor-iptv"
-    },
-    {
-      "keyword": "iptv shqip lite v3",
-      "intent": "Informational",
-      "volume": 40,
-      "kd": 15,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-08",
-      "url": "https://greekiptv.tv/blog/iptv-shqip-lite-v3"
-    },
-    {
-      "keyword": "iptv links",
-      "intent": "Informational",
-      "volume": 110,
-      "kd": 16,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-09",
-      "url": "https://greekiptv.tv/blog/iptv-links"
-    },
-    {
-      "keyword": "set iptv",
-      "intent": "Navigational",
-      "volume": 90,
-      "kd": 16,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-09",
-      "url": "https://greekiptv.tv/blog/set-iptv"
-    },
-    {
-      "keyword": "παρανομη iptv",
-      "intent": "Informational",
-      "volume": 90,
-      "kd": 16,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-10",
-      "url": "https://greekiptv.tv/blog/paranomi-iptv"
-    },
-    {
-      "keyword": "iptv teste",
-      "intent": "Informational",
-      "volume": 170,
-      "kd": 17,
-      "cpc": 0.13,
-      "status": "done",
-      "posted_date": "2026-06-10",
-      "url": "https://greekiptv.tv/blog/iptv-teste"
-    },
-    {
-      "keyword": "albkanale iptv",
-      "intent": "Informational, Transactional",
-      "volume": 720,
-      "kd": 18,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-11",
-      "url": "https://greekiptv.tv/blog/albkanale-iptv"
-    },
-    {
-      "keyword": "δωρεαν iptv",
-      "intent": "Informational",
-      "volume": 110,
-      "kd": 18,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-12",
-      "url": "https://greekiptv.tv/blog/dorean-iptv"
-    },
-    {
-      "keyword": "iptv link",
-      "intent": "Informational",
-      "volume": 70,
-      "kd": 18,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-12",
-      "url": "https://greekiptv.tv/blog/iptv-link"
-    },
-    {
-      "keyword": "iptv ge",
-      "intent": "Navigational",
-      "volume": 390,
-      "kd": 19,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-13",
-      "url": "https://greekiptv.tv/blog/iptv-ge"
-    },
-    {
-      "keyword": "bulsatcom iptv",
-      "intent": "Informational",
-      "volume": 140,
-      "kd": 19,
-      "cpc": 0.21,
-      "status": "done",
-      "posted_date": "2026-06-14",
-      "url": "https://greekiptv.tv/blog/bulsatcom-iptv"
-    },
-    {
-      "keyword": "iptv ge rustavi2",
-      "intent": "Navigational",
-      "volume": 140,
-      "kd": 19,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-15",
-      "url": "https://greekiptv.tv/blog/iptv-ge-rustavi2"
-    },
-    {
-      "keyword": "iptv xxx",
-      "intent": "Informational",
-      "volume": 70,
-      "kd": 19,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv shqip",
-      "intent": "Informational",
-      "volume": 260,
-      "kd": 21,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-20",
-      "url": "https://greekiptv.tv/blog/iptv-shqip"
-    },
-    {
-      "keyword": "iptv channels",
-      "intent": "Informational",
-      "volume": 110,
-      "kd": 21,
-      "cpc": 0.11
-    },
-    {
-      "keyword": "παρανομο iptv",
-      "intent": "Informational",
-      "volume": 110,
-      "kd": 21,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv ge imedi live",
-      "intent": "Navigational, Transactional",
-      "volume": 110,
-      "kd": 22,
-      "cpc": 0
-    },
-    {
-      "keyword": "provider iptv",
-      "intent": "Informational",
-      "volume": 110,
-      "kd": 22,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv suppliers",
-      "intent": "Informational",
-      "volume": 70,
-      "kd": 24,
-      "cpc": 0
-    },
-    {
-      "keyword": "net iptv",
-      "intent": "Informational",
-      "volume": 110,
-      "kd": 25,
-      "cpc": 0
-    },
-    {
-      "keyword": "smarters iptv pro",
-      "intent": "Informational",
-      "volume": 90,
-      "kd": 25,
-      "cpc": 0
-    },
-    {
-      "keyword": "planete iptv",
-      "intent": "Informational",
-      "volume": 40,
-      "kd": 25,
-      "cpc": 0.16
-    },
-    {
-      "keyword": "iptv smarters pro",
-      "intent": "Informational",
-      "volume": 590,
-      "kd": 26,
-      "cpc": 0
-    },
-    {
-      "keyword": "smart iptv",
-      "intent": "Informational",
-      "volume": 390,
-      "kd": 26,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv pro",
-      "intent": "Informational",
-      "volume": 140,
-      "kd": 26,
-      "cpc": 0
-    },
-    {
-      "keyword": "ultimate iptv ote tv",
-      "intent": "Informational",
-      "volume": 140,
-      "kd": 26,
-      "cpc": 0.13
-    },
-    {
-      "keyword": "xtream iptv",
-      "intent": "Informational",
-      "volume": 110,
-      "kd": 26,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv providers",
-      "intent": "Informational",
-      "volume": 90,
-      "kd": 26,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv smart",
-      "intent": "Informational",
-      "volume": 90,
-      "kd": 26,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv on dreambox 800 hd",
-      "intent": "Informational",
-      "volume": 50,
-      "kd": 26,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv greek",
-      "intent": "Informational",
-      "volume": 1600,
-      "kd": 27,
-      "cpc": 0,
-      "status": "done",
-      "posted_date": "2026-06-21",
-      "slug": "iptv-greek"
-    },
-    {
-      "keyword": "iptv m3u list",
-      "intent": "Informational",
-      "volume": 110,
-      "kd": 27,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv smarter pro",
-      "intent": "Informational",
-      "volume": 50,
-      "kd": 27,
-      "cpc": 0
-    },
-    {
-      "keyword": "m3u iptv",
-      "intent": "Informational",
-      "volume": 170,
-      "kd": 28,
-      "cpc": 0
-    },
-    {
-      "keyword": "playlist iptv",
-      "intent": "Informational, Transactional",
-      "volume": 170,
-      "kd": 28,
-      "cpc": 0.2
-    },
-    {
-      "keyword": "extreme iptv",
-      "intent": "Informational, Transactional",
-      "volume": 110,
-      "kd": 28,
-      "cpc": 0
-    },
-    {
-      "keyword": "m3u8 iptv list",
-      "intent": "Informational",
-      "volume": 110,
-      "kd": 28,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv extreme eu",
-      "intent": "Informational",
-      "volume": 70,
-      "kd": 28,
-      "cpc": 0
-    },
-    {
-      "keyword": "greek iptv",
-      "intent": "Informational",
-      "volume": 1600,
-      "kd": 29,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv smarters pro apk",
-      "intent": "Informational",
-      "volume": 90,
-      "kd": 29,
-      "cpc": 0
-    },
-    {
-      "keyword": "imedi iptv",
-      "intent": "Informational, Transactional",
-      "volume": 320,
-      "kd": 31,
-      "cpc": 0
-    },
-    {
-      "keyword": "free greek iptv github",
-      "intent": "Navigational",
-      "volume": 40,
-      "kd": 31,
-      "cpc": 0,
-      "status": "pending"
-    },
-    {
-      "keyword": "hot iptv",
-      "intent": "Navigational",
-      "volume": 40,
-      "kd": 31,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv streamer",
-      "intent": "Informational",
-      "volume": 70,
-      "kd": 32,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv imedi",
-      "intent": "Navigational",
-      "volume": 390,
-      "kd": 35,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv",
-      "intent": "Informational",
-      "volume": 5400,
-      "kd": 36,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv player windows",
-      "intent": "Informational",
-      "volume": 90,
-      "kd": 36,
-      "cpc": 0
-    },
-    {
-      "keyword": "greek iptv m3u github",
-      "intent": "Navigational, Transactional",
-      "volume": 70,
-      "kd": 36,
-      "cpc": 0
-    },
-    {
-      "keyword": "free iptv",
-      "intent": "Informational, Transactional",
-      "volume": 50,
-      "kd": 36,
-      "cpc": 0
-    },
-    {
-      "keyword": "best iptv",
-      "intent": "Informational",
-      "volume": 90,
-      "kd": 37,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv extreme",
-      "intent": "Informational",
-      "volume": 90,
-      "kd": 38,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv stream player",
-      "intent": "Informational",
-      "volume": 140,
-      "kd": 39,
-      "cpc": 0
-    },
-    {
-      "keyword": "tivimate iptv player",
-      "intent": "Navigational",
-      "volume": 50,
-      "kd": 39,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv smarters",
-      "intent": "Informational",
-      "volume": 1300,
-      "kd": 40,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv ge imedi",
-      "intent": "Navigational, Transactional",
-      "volume": 170,
-      "kd": 41,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv smarters pro windows",
-      "intent": "Informational, Transactional",
-      "volume": 90,
-      "kd": 43,
-      "cpc": 0
-    },
-    {
-      "keyword": "cccam iptv server",
-      "intent": "Informational",
-      "volume": 50,
-      "kd": 44,
-      "cpc": 0
-    },
-    {
-      "keyword": "free iptv portal",
-      "intent": "Informational",
-      "volume": 50,
-      "kd": 44,
-      "cpc": 0.17
-    },
-    {
-      "keyword": "iptv smarters player",
-      "intent": "Informational",
-      "volume": 170,
-      "kd": 46,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv mu3 list",
-      "intent": "Informational",
-      "volume": 210,
-      "kd": 48,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv windows",
-      "intent": "Informational, Transactional",
-      "volume": 90,
-      "kd": 50,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv app",
-      "intent": "Informational",
-      "volume": 480,
-      "kd": 54,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv for windows",
-      "intent": "Informational",
-      "volume": 90,
-      "kd": 57,
-      "cpc": 0
-    },
-    {
-      "keyword": "what is iptv",
-      "intent": "Informational",
-      "volume": 140,
-      "kd": 60,
-      "cpc": 0
-    },
-    {
-      "keyword": "iptv player",
-      "intent": "Informational",
-      "volume": 590,
-      "kd": 69,
-      "cpc": 0
-    },
-    {
-      "keyword": "greek free iptv",
-      "volume": 0,
-      "kd": 0,
-      "status": "pending"
-    }
-  ],
-  "posted": [
-    "greek iptv free",
-    "greek iptv m3u"
-  ],
-  "next_index": 2
+    "keywords":  [
+                     {
+                         "keyword":  "greek iptv free",
+                         "intent":  null,
+                         "volume":  90,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-25",
+                         "url":  "https://greekiptv.tv/blog/greek-iptv-free/"
+                     },
+                     {
+                         "keyword":  "greek iptv m3u",
+                         "intent":  null,
+                         "volume":  90,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-26",
+                         "url":  "https://greekiptv.tv/blog/greek-iptv-m3u"
+                     },
+                     {
+                         "keyword":  "box iptv",
+                         "intent":  null,
+                         "volume":  70,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-20",
+                         "url":  "https://greekiptv.tv/blog/box-iptv"
+                     },
+                     {
+                         "keyword":  "iptv box",
+                         "intent":  null,
+                         "volume":  70,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-21",
+                         "url":  "https://greekiptv.tv/blog/iptv-box"
+                     },
+                     {
+                         "keyword":  "iptv greek channels",
+                         "intent":  null,
+                         "volume":  70,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "pending"
+                     },
+                     {
+                         "keyword":  "iptv abonnement",
+                         "intent":  "Informational",
+                         "volume":  40,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-22",
+                         "url":  "https://greekiptv.tv/blog/iptv-abonnement"
+                     },
+                     {
+                         "keyword":  "iptv restream",
+                         "intent":  null,
+                         "volume":  40,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-23",
+                         "url":  "https://greekiptv.tv/blog/iptv-restream"
+                     },
+                     {
+                         "keyword":  "ultimate iptv",
+                         "intent":  null,
+                         "volume":  40,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-24",
+                         "url":  "https://greekiptv.tv/blog/ultimate-iptv"
+                     },
+                     {
+                         "keyword":  "xtream codes iptv apk",
+                         "intent":  null,
+                         "volume":  40,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-24",
+                         "url":  "https://greekiptv.tv/blog/xtream-codes-iptv-apk.html"
+                     },
+                     {
+                         "keyword":  "καλυτερη iptv",
+                         "intent":  null,
+                         "volume":  40,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-25",
+                         "url":  "https://greekiptv.tv/blog/kalyteri-iptv"
+                     },
+                     {
+                         "keyword":  "4k iptv",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-25",
+                         "url":  "https://greekiptv.tv/blog/4k-iptv"
+                     },
+                     {
+                         "keyword":  "adult iptv",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-26",
+                         "url":  "https://greekiptv.tv/blog/adult-iptv"
+                     },
+                     {
+                         "keyword":  "albania iptv free",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-26",
+                         "url":  "https://greekiptv.tv/blog/albania-iptv-free"
+                     },
+                     {
+                         "keyword":  "albtv iptv",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-27",
+                         "url":  "https://greekiptv.tv/blog/albtv-iptv"
+                     },
+                     {
+                         "keyword":  "android iptv",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-27",
+                         "url":  "https://greekiptv.tv/blog/android-iptv"
+                     },
+                     {
+                         "keyword":  "avclub iptv",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-28",
+                         "url":  "https://greekiptv.tv/blog/avclub-iptv"
+                     },
+                     {
+                         "keyword":  "bes iptv",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-29",
+                         "url":  "https://greekiptv.tv/blog/bes-iptv"
+                     },
+                     {
+                         "keyword":  "best free iptv android",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-29",
+                         "url":  "https://greekiptv.tv/blog/best-free-iptv-android"
+                     },
+                     {
+                         "keyword":  "best free iptv app",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-29",
+                         "url":  "https://greekiptv.tv/blog/best-free-iptv-app"
+                     },
+                     {
+                         "keyword":  "best free iptv player for windows",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-30",
+                         "url":  "https://greekiptv.tv/blog/best-free-iptv-player-for-windows"
+                     },
+                     {
+                         "keyword":  "best greek iptv",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-30",
+                         "url":  "https://greekiptv.tv/blog/best-greek-iptv"
+                     },
+                     {
+                         "keyword":  "best iptv for smart tv",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-30",
+                         "url":  "https://greekiptv.tv/blog/best-iptv-for-smart-tv"
+                     },
+                     {
+                         "keyword":  "best iptv kodi",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-31",
+                         "url":  "https://greekiptv.tv/blog/best-iptv-kodi"
+                     },
+                     {
+                         "keyword":  "best iptv player android",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-31",
+                         "url":  "https://greekiptv.tv/blog/best-iptv-player-android"
+                     },
+                     {
+                         "keyword":  "best iptv player for samsung tv",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-05-31",
+                         "url":  "https://greekiptv.tv/blog/best-iptv-player-for-samsung-tv"
+                     },
+                     {
+                         "keyword":  "best iptv player for windows",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-01",
+                         "url":  "https://greekiptv.tv/blog/best-iptv-player-for-windows"
+                     },
+                     {
+                         "keyword":  "best iptv reddit",
+                         "intent":  null,
+                         "volume":  30,
+                         "kd":  0,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-02",
+                         "url":  "https://greekiptv.tv/blog/best-iptv-reddit.html"
+                     },
+                     {
+                         "keyword":  "iptv free trial",
+                         "intent":  "Informational",
+                         "volume":  140,
+                         "kd":  2,
+                         "cpc":  0.14,
+                         "status":  "done",
+                         "posted_date":  "2026-06-03",
+                         "url":  "https://greekiptv.tv/blog/iptv-free-trial"
+                     },
+                     {
+                         "keyword":  "m3u iptv greek",
+                         "intent":  "Informational",
+                         "volume":  260,
+                         "kd":  6,
+                         "cpc":  0,
+                         "status":  "done",
+                         "slug":  "m3u-iptv-greek",
+                         "posted_date":  "2026-06-24",
+                         "url":  "https://greekiptv.tv/blog/m3u-iptv-greek/"
+                     },
+                     {
+                         "keyword":  "iptv m3u greek",
+                         "intent":  "Informational",
+                         "volume":  140,
+                         "kd":  6,
+                         "cpc":  0,
+                         "status":  "pending"
+                     },
+                     {
+                         "keyword":  "iptv greek nova ote 2019",
+                         "intent":  "Informational",
+                         "volume":  90,
+                         "kd":  6,
+                         "cpc":  0,
+                         "status":  "pending"
+                     },
+                     {
+                         "keyword":  "ελληνικη iptv",
+                         "intent":  "Informational",
+                         "volume":  110,
+                         "kd":  12,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-05",
+                         "url":  "https://greekiptv.tv/blog/ellinikh-iptv"
+                     },
+                     {
+                         "keyword":  "ελληνικο iptv",
+                         "intent":  "Informational",
+                         "volume":  110,
+                         "kd":  12,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-05",
+                         "url":  "https://greekiptv.tv/blog/elliniko-iptv"
+                     },
+                     {
+                         "keyword":  "iptv cosmote nova",
+                         "intent":  "Informational",
+                         "volume":  140,
+                         "kd":  13,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-06",
+                         "url":  "https://greekiptv.tv/blog/iptv-cosmote-nova"
+                     },
+                     {
+                         "keyword":  "iptv ge mtavari arxi",
+                         "intent":  "Navigational",
+                         "volume":  70,
+                         "kd":  13,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-07",
+                         "url":  "https://greekiptv.tv/blog/iptv-ge-mtavari-arxi"
+                     },
+                     {
+                         "keyword":  "e doctor iptv",
+                         "intent":  "Informational",
+                         "volume":  40,
+                         "kd":  13,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-07",
+                         "url":  "https://greekiptv.tv/blog/e-doctor-iptv"
+                     },
+                     {
+                         "keyword":  "iptv shqip lite v3",
+                         "intent":  "Informational",
+                         "volume":  40,
+                         "kd":  15,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-08",
+                         "url":  "https://greekiptv.tv/blog/iptv-shqip-lite-v3"
+                     },
+                     {
+                         "keyword":  "iptv links",
+                         "intent":  "Informational",
+                         "volume":  110,
+                         "kd":  16,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-09",
+                         "url":  "https://greekiptv.tv/blog/iptv-links"
+                     },
+                     {
+                         "keyword":  "set iptv",
+                         "intent":  "Navigational",
+                         "volume":  90,
+                         "kd":  16,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-09",
+                         "url":  "https://greekiptv.tv/blog/set-iptv"
+                     },
+                     {
+                         "keyword":  "παρανομη iptv",
+                         "intent":  "Informational",
+                         "volume":  90,
+                         "kd":  16,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-10",
+                         "url":  "https://greekiptv.tv/blog/paranomi-iptv"
+                     },
+                     {
+                         "keyword":  "iptv teste",
+                         "intent":  "Informational",
+                         "volume":  170,
+                         "kd":  17,
+                         "cpc":  0.13,
+                         "status":  "done",
+                         "posted_date":  "2026-06-10",
+                         "url":  "https://greekiptv.tv/blog/iptv-teste"
+                     },
+                     {
+                         "keyword":  "albkanale iptv",
+                         "intent":  "Informational, Transactional",
+                         "volume":  720,
+                         "kd":  18,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-11",
+                         "url":  "https://greekiptv.tv/blog/albkanale-iptv"
+                     },
+                     {
+                         "keyword":  "δωρεαν iptv",
+                         "intent":  "Informational",
+                         "volume":  110,
+                         "kd":  18,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-12",
+                         "url":  "https://greekiptv.tv/blog/dorean-iptv"
+                     },
+                     {
+                         "keyword":  "iptv link",
+                         "intent":  "Informational",
+                         "volume":  70,
+                         "kd":  18,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-12",
+                         "url":  "https://greekiptv.tv/blog/iptv-link"
+                     },
+                     {
+                         "keyword":  "iptv ge",
+                         "intent":  "Navigational",
+                         "volume":  390,
+                         "kd":  19,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-13",
+                         "url":  "https://greekiptv.tv/blog/iptv-ge"
+                     },
+                     {
+                         "keyword":  "bulsatcom iptv",
+                         "intent":  "Informational",
+                         "volume":  140,
+                         "kd":  19,
+                         "cpc":  0.21,
+                         "status":  "done",
+                         "posted_date":  "2026-06-14",
+                         "url":  "https://greekiptv.tv/blog/bulsatcom-iptv"
+                     },
+                     {
+                         "keyword":  "iptv ge rustavi2",
+                         "intent":  "Navigational",
+                         "volume":  140,
+                         "kd":  19,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-15",
+                         "url":  "https://greekiptv.tv/blog/iptv-ge-rustavi2"
+                     },
+                     {
+                         "keyword":  "iptv xxx",
+                         "intent":  "Informational",
+                         "volume":  70,
+                         "kd":  19,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv shqip",
+                         "intent":  "Informational",
+                         "volume":  260,
+                         "kd":  21,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-20",
+                         "url":  "https://greekiptv.tv/blog/iptv-shqip"
+                     },
+                     {
+                         "keyword":  "iptv channels",
+                         "intent":  "Informational",
+                         "volume":  110,
+                         "kd":  21,
+                         "cpc":  0.11
+                     },
+                     {
+                         "keyword":  "παρανομο iptv",
+                         "intent":  "Informational",
+                         "volume":  110,
+                         "kd":  21,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv ge imedi live",
+                         "intent":  "Navigational, Transactional",
+                         "volume":  110,
+                         "kd":  22,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "provider iptv",
+                         "intent":  "Informational",
+                         "volume":  110,
+                         "kd":  22,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv suppliers",
+                         "intent":  "Informational",
+                         "volume":  70,
+                         "kd":  24,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "net iptv",
+                         "intent":  "Informational",
+                         "volume":  110,
+                         "kd":  25,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "smarters iptv pro",
+                         "intent":  "Informational",
+                         "volume":  90,
+                         "kd":  25,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "planete iptv",
+                         "intent":  "Informational",
+                         "volume":  40,
+                         "kd":  25,
+                         "cpc":  0.16
+                     },
+                     {
+                         "keyword":  "iptv smarters pro",
+                         "intent":  "Informational",
+                         "volume":  590,
+                         "kd":  26,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "smart iptv",
+                         "intent":  "Informational",
+                         "volume":  390,
+                         "kd":  26,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv pro",
+                         "intent":  "Informational",
+                         "volume":  140,
+                         "kd":  26,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "ultimate iptv ote tv",
+                         "intent":  "Informational",
+                         "volume":  140,
+                         "kd":  26,
+                         "cpc":  0.13
+                     },
+                     {
+                         "keyword":  "xtream iptv",
+                         "intent":  "Informational",
+                         "volume":  110,
+                         "kd":  26,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv providers",
+                         "intent":  "Informational",
+                         "volume":  90,
+                         "kd":  26,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv smart",
+                         "intent":  "Informational",
+                         "volume":  90,
+                         "kd":  26,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv on dreambox 800 hd",
+                         "intent":  "Informational",
+                         "volume":  50,
+                         "kd":  26,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv greek",
+                         "intent":  "Informational",
+                         "volume":  1600,
+                         "kd":  27,
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-06-21",
+                         "slug":  "iptv-greek"
+                     },
+                     {
+                         "keyword":  "iptv m3u list",
+                         "intent":  "Informational",
+                         "volume":  110,
+                         "kd":  27,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv smarter pro",
+                         "intent":  "Informational",
+                         "volume":  50,
+                         "kd":  27,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "m3u iptv",
+                         "intent":  "Informational",
+                         "volume":  170,
+                         "kd":  28,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "playlist iptv",
+                         "intent":  "Informational, Transactional",
+                         "volume":  170,
+                         "kd":  28,
+                         "cpc":  0.2
+                     },
+                     {
+                         "keyword":  "extreme iptv",
+                         "intent":  "Informational, Transactional",
+                         "volume":  110,
+                         "kd":  28,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "m3u8 iptv list",
+                         "intent":  "Informational",
+                         "volume":  110,
+                         "kd":  28,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv extreme eu",
+                         "intent":  "Informational",
+                         "volume":  70,
+                         "kd":  28,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "greek iptv",
+                         "intent":  "Informational",
+                         "volume":  1600,
+                         "kd":  29,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv smarters pro apk",
+                         "intent":  "Informational",
+                         "volume":  90,
+                         "kd":  29,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "imedi iptv",
+                         "intent":  "Informational, Transactional",
+                         "volume":  320,
+                         "kd":  31,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "free greek iptv github",
+                         "intent":  "Navigational",
+                         "volume":  40,
+                         "kd":  31,
+                         "cpc":  0,
+                         "status":  "pending"
+                     },
+                     {
+                         "keyword":  "hot iptv",
+                         "intent":  "Navigational",
+                         "volume":  40,
+                         "kd":  31,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv streamer",
+                         "intent":  "Informational",
+                         "volume":  70,
+                         "kd":  32,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv imedi",
+                         "intent":  "Navigational",
+                         "volume":  390,
+                         "kd":  35,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv",
+                         "intent":  "Informational",
+                         "volume":  5400,
+                         "kd":  36,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv player windows",
+                         "intent":  "Informational",
+                         "volume":  90,
+                         "kd":  36,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "greek iptv m3u github",
+                         "intent":  "Navigational, Transactional",
+                         "volume":  70,
+                         "kd":  36,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "free iptv",
+                         "intent":  "Informational, Transactional",
+                         "volume":  50,
+                         "kd":  36,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "best iptv",
+                         "intent":  "Informational",
+                         "volume":  90,
+                         "kd":  37,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv extreme",
+                         "intent":  "Informational",
+                         "volume":  90,
+                         "kd":  38,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv stream player",
+                         "intent":  "Informational",
+                         "volume":  140,
+                         "kd":  39,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "tivimate iptv player",
+                         "intent":  "Navigational",
+                         "volume":  50,
+                         "kd":  39,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv smarters",
+                         "intent":  "Informational",
+                         "volume":  1300,
+                         "kd":  40,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv ge imedi",
+                         "intent":  "Navigational, Transactional",
+                         "volume":  170,
+                         "kd":  41,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv smarters pro windows",
+                         "intent":  "Informational, Transactional",
+                         "volume":  90,
+                         "kd":  43,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "cccam iptv server",
+                         "intent":  "Informational",
+                         "volume":  50,
+                         "kd":  44,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "free iptv portal",
+                         "intent":  "Informational",
+                         "volume":  50,
+                         "kd":  44,
+                         "cpc":  0.17
+                     },
+                     {
+                         "keyword":  "iptv smarters player",
+                         "intent":  "Informational",
+                         "volume":  170,
+                         "kd":  46,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv mu3 list",
+                         "intent":  "Informational",
+                         "volume":  210,
+                         "kd":  48,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv windows",
+                         "intent":  "Informational, Transactional",
+                         "volume":  90,
+                         "kd":  50,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv app",
+                         "intent":  "Informational",
+                         "volume":  480,
+                         "kd":  54,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv for windows",
+                         "intent":  "Informational",
+                         "volume":  90,
+                         "kd":  57,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "what is iptv",
+                         "intent":  "Informational",
+                         "volume":  140,
+                         "kd":  60,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "iptv player",
+                         "intent":  "Informational",
+                         "volume":  590,
+                         "kd":  69,
+                         "cpc":  0
+                     },
+                     {
+                         "keyword":  "greek free iptv",
+                         "volume":  0,
+                         "kd":  0,
+                         "status":  "pending"
+                     }
+                 ],
+    "posted":  [
+                   "greek iptv free",
+                   "greek iptv m3u"
+               ],
+    "next_index":  2
 }
