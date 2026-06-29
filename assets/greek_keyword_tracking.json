@@ -297,7 +297,9 @@
       "volume": 140,
       "kd": 6,
       "cpc": 0,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-06-29",
+      "url": "https://greekiptv.tv/blog/iptv-m3u-greek/"
     },
     {
       "keyword": "iptv greek nova ote 2019",
@@ -857,7 +859,8 @@
   ],
   "posted": [
     "greek iptv free",
-    "greek iptv m3u"
+    "greek iptv m3u",
+    "iptv m3u greek"
   ],
   "next_index": 2
 }
