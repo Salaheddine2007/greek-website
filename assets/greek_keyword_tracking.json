@@ -475,7 +475,10 @@
       "intent": "Informational",
       "volume": 70,
       "kd": 19,
-      "cpc": 0
+      "cpc": 0,
+      "status": "done",
+      "posted_date": "2026-07-03",
+      "url": "skipped"
     },
     {
       "keyword": "iptv shqip",
@@ -515,7 +518,10 @@
       "intent": "Informational",
       "volume": 110,
       "kd": 22,
-      "cpc": 0
+      "cpc": 0,
+      "status": "done",
+      "posted_date": "2026-07-03",
+      "url": "https://greekiptv.tv/blog/provider-iptv"
     },
     {
       "keyword": "iptv suppliers",
