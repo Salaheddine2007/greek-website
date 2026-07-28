@@ -574,7 +574,10 @@
                          "intent":  "Informational",
                          "volume":  590,
                          "kd":  26,
-                         "cpc":  0
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-07-28",
+                         "url":  "https://greekiptv.tv/blog/iptv-smarters-pro"
                      },
                      {
                          "keyword":  "smart iptv",
