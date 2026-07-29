@@ -594,7 +594,10 @@
                          "intent":  "Informational",
                          "volume":  140,
                          "kd":  26,
-                         "cpc":  0
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-07-29",
+                         "url":  "https://greekiptv.tv/blog/iptv-pro"
                      },
                      {
                          "keyword":  "ultimate iptv ote tv",
@@ -890,7 +893,8 @@
     "posted":  [
                    "greek iptv free",
                    "greek iptv m3u",
-                   "iptv m3u greek"
+                   "iptv m3u greek",
+                   "iptv pro"
                ],
     "next_index":  2
 }
