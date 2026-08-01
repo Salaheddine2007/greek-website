@@ -624,7 +624,10 @@
                          "intent":  "Informational",
                          "volume":  90,
                          "kd":  26,
-                         "cpc":  0
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-08-01",
+                         "url":  "https://greekiptv.tv/blog/iptv-providers"
                      },
                      {
                          "keyword":  "iptv smart",
