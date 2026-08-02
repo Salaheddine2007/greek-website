@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://greekiptv.tv/</loc><lastmod>2026-08-01</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://greekiptv.tv/blog</loc><lastmod>2026-08-01</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://greekiptv.tv/blog/iptv-greek-nova-ote-2019</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
-  <url><loc>https://greekiptv.tv/blog/iptv-channels</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://greekiptv.tv/</loc><lastmod>2026-08-02</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://greekiptv.tv/blog</loc><lastmod>2026-08-02</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://greekiptv.tv/blog/iptv-greek-nova-ote-2019</loc><lastmod>2026-08-02</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://greekiptv.tv/blog/iptv-channels</loc><lastmod>2026-08-02</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
   <url><loc>https://greekiptv.tv/blog/box-iptv</loc><lastmod>2026-05-20</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
   <url><loc>https://greekiptv.tv/blog/iptv-box</loc><lastmod>2026-05-21</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
   <url><loc>https://greekiptv.tv/blog/iptv-abonnement</loc><lastmod>2026-05-22</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
@@ -64,6 +64,7 @@
   <url><loc>https://greekiptv.tv/blog/ultimate-iptv-ote-tv</loc><lastmod>2026-07-30</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
   <url><loc>https://greekiptv.tv/blog/xtream-iptv</loc><lastmod>2026-07-31</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
   <url><loc>https://greekiptv.tv/blog/iptv-providers</loc><lastmod>2026-08-01</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://greekiptv.tv/blog/iptv-smart</loc><lastmod>2026-08-02</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
   <url><loc>https://greekiptv.tv/channels</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://greekiptv.tv/faq</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://greekiptv.tv/tutorial</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
