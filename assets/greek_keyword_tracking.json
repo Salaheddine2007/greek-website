@@ -644,7 +644,10 @@
                          "intent":  "Informational",
                          "volume":  50,
                          "kd":  26,
-                         "cpc":  0
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-08-03",
+                         "url":  "https://greekiptv.tv/blog/iptv-on-dreambox-800-hd"
                      },
                      {
                          "keyword":  "iptv greek",
