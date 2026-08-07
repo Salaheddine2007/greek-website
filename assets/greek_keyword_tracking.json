@@ -694,7 +694,10 @@
                          "intent":  "Informational, Transactional",
                          "volume":  170,
                          "kd":  28,
-                         "cpc":  0.2
+                         "cpc":  0.2,
+                         "status":  "done",
+                         "posted_date":  "2026-08-07",
+                         "url":  "https://greekiptv.tv/blog/playlist-iptv"
                      },
                      {
                          "keyword":  "extreme iptv",
