@@ -714,7 +714,10 @@
                          "intent":  "Informational",
                          "volume":  110,
                          "kd":  28,
-                         "cpc":  0
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-08-10",
+                         "url":  "https://greekiptv.tv/blog/m3u8-iptv-list"
                      },
                      {
                          "keyword":  "iptv extreme eu",
