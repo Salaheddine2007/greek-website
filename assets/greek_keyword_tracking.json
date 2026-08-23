@@ -804,7 +804,10 @@
                          "intent":  "Informational",
                          "volume":  5400,
                          "kd":  36,
-                         "cpc":  0
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-08-23",
+                         "url":  "https://greekiptv.tv/blog/iptv"
                      },
                      {
                          "keyword":  "iptv player windows",
