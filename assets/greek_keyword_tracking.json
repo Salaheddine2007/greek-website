@@ -865,7 +865,10 @@
                          "intent":  "Informational",
                          "volume":  140,
                          "kd":  39,
-                         "cpc":  0
+                         "cpc":  0,
+                         "status":  "done",
+                         "posted_date":  "2026-08-30",
+                         "url":  "https://greekiptv.tv/blog/iptv-stream-player"
                      },
                      {
                          "keyword":  "tivimate iptv player",
