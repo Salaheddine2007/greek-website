@@ -1018,7 +1018,10 @@
       "volume": 170,
       "kd": 46,
       "cpc": 0,
-      "trunk": "iptv-smarters-pro"
+      "trunk": "iptv-smarters-pro",
+      "status": "done",
+      "posted_date": "2026-09-04",
+      "url": "https://greekiptv.tv/blog/iptv-smarters-player"
     },
     {
       "keyword": "iptv mu3 list",
@@ -103117,5 +103120,5 @@
     "iptv m3u greek",
     "iptv pro"
   ],
-  "next_index": 2
+  "next_index": 3
 }
