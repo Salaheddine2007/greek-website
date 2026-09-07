@@ -1051,7 +1051,10 @@
       "volume": 480,
       "kd": 54,
       "cpc": 0,
-      "trunk": "apps_players"
+      "trunk": "apps_players",
+      "status": "done",
+      "posted_date": "2026-09-07",
+      "url": "https://greekiptv.tv/blog/iptv-app"
     },
     {
       "keyword": "iptv for windows",
@@ -103125,7 +103128,8 @@
     "greek iptv m3u",
     "iptv m3u greek",
     "iptv pro",
-    "iptv windows"
+    "iptv windows",
+    "iptv app"
   ],
   "next_index": 4
 }
