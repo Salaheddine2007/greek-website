@@ -1073,7 +1073,10 @@
       "volume": 140,
       "kd": 60,
       "cpc": 0,
-      "trunk": "general"
+      "trunk": "general",
+      "status": "done",
+      "posted_date": "2026-09-08",
+      "url": "https://greekiptv.tv/blog/what-is-iptv"
     },
     {
       "keyword": "iptv player",
@@ -103132,7 +103135,8 @@
     "iptv m3u greek",
     "iptv pro",
     "iptv windows",
-    "iptv app"
+    "iptv app",
+    "what is iptv"
   ],
   "next_index": 4
 }
