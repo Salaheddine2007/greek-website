@@ -1099,19 +1099,21 @@
       "keyword": "iptv porn",
       "volume": 40,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-09",
       "post_id": null,
-      "trunk": "general"
+      "trunk": "general",
+      "url": "skipped"
     },
     {
       "keyword": "iptv turkiye",
       "volume": 40,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-09",
       "post_id": null,
-      "trunk": "general"
+      "trunk": "general",
+      "url": "https://greekiptv.tv/blog/iptv-turkiye"
     },
     {
       "keyword": "iptv vip",
@@ -103136,7 +103138,8 @@
     "iptv pro",
     "iptv windows",
     "iptv app",
-    "what is iptv"
+    "what is iptv",
+    "iptv turkiye"
   ],
   "next_index": 4
 }
