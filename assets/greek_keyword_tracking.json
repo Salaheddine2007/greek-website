@@ -1132,10 +1132,11 @@
       "keyword": "kodi simple iptv",
       "volume": 40,
       "kd": 16,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-10",
       "post_id": null,
-      "trunk": "best-iptv-kodi"
+      "trunk": "best-iptv-kodi",
+      "url": "https://greekiptv.tv/blog/kodi-simple-iptv"
     },
     {
       "keyword": "iptv provider legal",
@@ -103144,7 +103145,8 @@
     "iptv app",
     "what is iptv",
     "iptv turkiye",
-    "iptv vip"
+    "iptv vip",
+    "kodi simple iptv"
   ],
   "next_index": 4
 }
