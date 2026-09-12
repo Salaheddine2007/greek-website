@@ -1162,10 +1162,11 @@
       "keyword": "albania iptv playlist",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-12",
       "post_id": null,
-      "trunk": "playlist-iptv"
+      "trunk": "playlist-iptv",
+      "url": "https://greekiptv.tv/blog/albania-iptv-playlist"
     },
     {
       "keyword": "best android tv iptv player",
