@@ -1212,10 +1212,11 @@
       "keyword": "best iptv player for android tv box",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-14",
       "post_id": null,
-      "trunk": "iptv-box"
+      "trunk": "iptv-box",
+      "url": "https://greekiptv.tv/blog/best-iptv-player-for-android-tv-box"
     },
     {
       "keyword": "best iptv service",
@@ -103156,7 +103157,8 @@
     "kodi simple iptv",
     "iptv provider legal",
     "best apk for iptv",
-    "best iptv list"
+    "best iptv list",
+    "best iptv player for android tv box"
   ],
   "next_index": 4
 }
