@@ -1292,10 +1292,11 @@
       "keyword": "flex iptv",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-18",
       "post_id": null,
-      "trunk": "general"
+      "trunk": "general",
+      "url": "https://greekiptv.tv/blog/flex-iptv"
     },
     {
       "keyword": "forum iptv",
@@ -103166,7 +103167,8 @@
     "best apk for iptv",
     "best iptv list",
     "best iptv player for android tv box",
-    "edoctor iptv"
+    "edoctor iptv",
+    "flex iptv"
   ],
   "next_index": 4
 }
