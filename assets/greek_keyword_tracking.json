@@ -1312,10 +1312,11 @@
       "keyword": "free iptv m3u list",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-20",
       "post_id": null,
-      "trunk": "iptv-m3u-list"
+      "trunk": "iptv-m3u-list",
+      "url": "https://greekiptv.tv/blog/free-iptv-m3u-list"
     },
     {
       "keyword": "free iptv streams",
@@ -103170,7 +103171,8 @@
     "best iptv player for android tv box",
     "edoctor iptv",
     "flex iptv",
-    "forum iptv"
+    "forum iptv",
+    "free iptv m3u list"
   ],
   "next_index": 4
 }
