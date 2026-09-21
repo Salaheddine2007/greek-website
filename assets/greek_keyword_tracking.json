@@ -1342,10 +1342,11 @@
       "keyword": "greek iptv for kodi",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-21",
       "post_id": null,
-      "trunk": "best-iptv-kodi"
+      "trunk": "best-iptv-kodi",
+      "url": "https://greekiptv.tv/blog/greek-iptv-for-kodi"
     },
     {
       "keyword": "greek iptv m3u playlist",
