@@ -1352,10 +1352,11 @@
       "keyword": "greek iptv m3u playlist",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-22",
       "post_id": null,
-      "trunk": "m3u-iptv"
+      "trunk": "m3u-iptv",
+      "url": "https://greekiptv.tv/blog/greek-iptv-m3u-playlist"
     },
     {
       "keyword": "gse iptv",
@@ -103176,7 +103177,8 @@
     "flex iptv",
     "forum iptv",
     "free iptv m3u list",
-    "global iptv"
+    "global iptv",
+    "greek iptv m3u playlist"
   ],
   "next_index": 4
 }
