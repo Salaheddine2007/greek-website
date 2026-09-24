@@ -1390,11 +1390,13 @@
     },
     {
       "keyword": "hotel iptv system",
+      "intent": null,
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
+      "cpc": 0,
+      "status": "done",
+      "posted_date": "2026-09-24",
+      "url": "https://greekiptv.tv/blog/hotel-iptv-system",
       "trunk": "general"
     },
     {
@@ -103181,7 +103183,8 @@
     "free iptv m3u list",
     "global iptv",
     "greek iptv m3u playlist",
-    "gse iptv"
+    "gse iptv",
+    "hotel iptv system"
   ],
   "next_index": 4
 }
