@@ -1433,10 +1433,11 @@
       "keyword": "iptv box τι ειναι",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-27",
       "post_id": null,
-      "trunk": "iptv-box"
+      "trunk": "iptv-box",
+      "url": "https://greekiptv.tv/blog/iptv-box-ti-einai"
     },
     {
       "keyword": "iptv checker",
@@ -103187,7 +103188,8 @@
     "global iptv",
     "greek iptv m3u playlist",
     "gse iptv",
-    "hotel iptv system"
+    "hotel iptv system",
+    "iptv box τι ειναι"
   ],
   "next_index": 4
 }
