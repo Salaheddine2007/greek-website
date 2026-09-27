@@ -1443,10 +1443,11 @@
       "keyword": "iptv checker",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-27",
       "post_id": null,
-      "trunk": "general"
+      "trunk": "general",
+      "url": "https://greekiptv.tv/blog/iptv-checker"
     },
     {
       "keyword": "iptv client",
@@ -103189,7 +103190,8 @@
     "greek iptv m3u playlist",
     "gse iptv",
     "hotel iptv system",
-    "iptv box τι ειναι"
+    "iptv box τι ειναι",
+    "iptv checker"
   ],
   "next_index": 4
 }
