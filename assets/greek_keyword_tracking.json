@@ -1513,10 +1513,11 @@
       "keyword": "iptv extreme pro",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-10-01",
       "post_id": null,
-      "trunk": "extreme-iptv"
+      "trunk": "extreme-iptv",
+      "url": "https://greekiptv.tv/blog/iptv-extreme-pro"
     },
     {
       "keyword": "iptv for windows 10",
