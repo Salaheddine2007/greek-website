@@ -1653,10 +1653,11 @@
       "keyword": "iptv malta",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-10-09",
       "post_id": null,
-      "trunk": "general"
+      "trunk": "general",
+      "url": "https://greekiptv.tv/blog/iptv-malta"
     },
     {
       "keyword": "iptv nova greece",
