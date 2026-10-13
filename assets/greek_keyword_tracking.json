@@ -1713,10 +1713,11 @@
       "keyword": "iptv pro apk",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-10-13",
       "post_id": null,
-      "trunk": "apps_players"
+      "trunk": "apps_players",
+      "url": "https://greekiptv.tv/blog/iptv-pro-apk"
     },
     {
       "keyword": "iptv russia",
@@ -103218,7 +103219,8 @@
     "hotel iptv system",
     "iptv box τι ειναι",
     "iptv checker",
-    "iptv client"
+    "iptv client",
+    "iptv pro apk"
   ],
   "next_index": 4
 }
