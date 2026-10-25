@@ -1903,10 +1903,11 @@
       "keyword": "iptv uk",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-10-25",
       "post_id": null,
-      "trunk": "general"
+      "trunk": "general",
+      "url": "https://greekiptv.tv/blog/iptv-uk"
     },
     {
       "keyword": "iptv user password",
@@ -103239,7 +103240,8 @@
     "iptv checker",
     "iptv client",
     "iptv pro apk",
-    "iptv set top box"
+    "iptv set top box",
+    "iptv uk"
   ],
   "next_index": 4
 }
