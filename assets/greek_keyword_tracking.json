@@ -1913,10 +1913,11 @@
       "keyword": "iptv user password",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-10-26",
       "post_id": null,
-      "trunk": "troubleshooting"
+      "trunk": "troubleshooting",
+      "url": "https://greekiptv.tv/blog/iptv-user-password"
     },
     {
       "keyword": "iptv vlc",
@@ -103240,7 +103241,8 @@
     "iptv checker",
     "iptv client",
     "iptv pro apk",
-    "iptv set top box"
+    "iptv set top box",
+    "iptv user password"
   ],
   "next_index": 4
 }
