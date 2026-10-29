@@ -1953,10 +1953,11 @@
       "keyword": "iptv δωρεαν δοκιμη",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-10-29",
       "post_id": null,
-      "trunk": "dorean-iptv"
+      "trunk": "dorean-iptv",
+      "url": "https://greekiptv.tv/blog/iptv-dorean-dokimi"
     },
     {
       "keyword": "iptv ελλαδα",
