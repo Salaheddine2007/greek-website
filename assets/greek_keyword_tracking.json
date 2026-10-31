@@ -1973,10 +1973,11 @@
       "keyword": "iptv παρανομο forum",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-10-31",
       "post_id": null,
-      "trunk": "paranomi-iptv"
+      "trunk": "paranomi-iptv",
+      "url": "https://greekiptv.tv/blog/iptv-paranomo-forum"
     },
     {
       "keyword": "iptv συνδρομη",
