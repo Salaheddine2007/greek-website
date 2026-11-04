@@ -2033,10 +2033,11 @@
       "keyword": "lg tv iptv",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-11-04",
       "post_id": null,
-      "trunk": "devices_boxes"
+      "trunk": "devices_boxes",
+      "url": "https://greekiptv.tv/blog/lg-tv-iptv"
     },
     {
       "keyword": "m3u iptv free",
