@@ -2063,10 +2063,11 @@
       "keyword": "mega iptv addon",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-11-08",
       "post_id": null,
-      "trunk": "setup_install"
+      "trunk": "setup_install",
+      "url": "https://greekiptv.tv/blog/mega-iptv-addon"
     },
     {
       "keyword": "meilleur iptv",
