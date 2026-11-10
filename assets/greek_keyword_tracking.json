@@ -2083,10 +2083,11 @@
       "keyword": "my iptv app",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-11-10",
       "post_id": null,
-      "trunk": "apps_players"
+      "trunk": "apps_players",
+      "url": "https://greekiptv.tv/blog/my-iptv-app"
     },
     {
       "keyword": "online iptv player",
