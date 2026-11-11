@@ -2103,10 +2103,11 @@
       "keyword": "open iptv forum",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-11-11",
       "post_id": null,
-      "trunk": "general"
+      "trunk": "general",
+      "url": "https://greekiptv.tv/blog/open-iptv-forum"
     },
     {
       "keyword": "open tv iptv",
@@ -103262,7 +103263,8 @@
     "iptv set top box",
     "iptv user password",
     "iptv vlc",
-    "lg iptv"
+    "lg iptv",
+    "open iptv forum"
   ],
   "next_index": 4
 }
