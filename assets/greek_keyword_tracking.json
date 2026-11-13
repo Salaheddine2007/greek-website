@@ -2133,10 +2133,11 @@
       "keyword": "perfect iptv",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-11-13",
       "post_id": null,
-      "trunk": "general"
+      "trunk": "general",
+      "url": "https://greekiptv.tv/blog/perfect-iptv"
     },
     {
       "keyword": "pool ntp org iptv",
@@ -103266,7 +103267,8 @@
     "iptv user password",
     "iptv vlc",
     "lg iptv",
-    "open iptv forum"
+    "open iptv forum",
+    "perfect iptv"
   ],
   "next_index": 4
 }
