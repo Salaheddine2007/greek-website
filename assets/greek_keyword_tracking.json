@@ -2153,10 +2153,11 @@
       "keyword": "samsung smart tv iptv app",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-11-15",
       "post_id": null,
-      "trunk": "iptv-smart"
+      "trunk": "iptv-smart",
+      "url": "https://greekiptv.tv/blog/samsung-smart-tv-iptv-app"
     },
     {
       "keyword": "sex iptv",
@@ -103269,7 +103270,8 @@
     "iptv vlc",
     "lg iptv",
     "open iptv forum",
-    "perfect iptv"
+    "perfect iptv",
+    "samsung smart tv iptv app"
   ],
   "next_index": 4
 }
