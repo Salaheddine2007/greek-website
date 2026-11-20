@@ -2213,8 +2213,9 @@
       "keyword": "smart iptv player",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-11-20",
+      "url": "https://greekiptv.tv/blog/smart-iptv-player",
       "post_id": null,
       "trunk": "iptv-smart"
     },
