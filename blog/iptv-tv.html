@@ -103,7 +103,7 @@ button{cursor:pointer;border:none;background:none;font-family:inherit}
 .breadcrumb a{color:var(--sky)}
 .breadcrumb a:hover{text-decoration:underline}
 @media(max-width:768px){.nav-links{display:none}.article-body{padding:40px 16px}}
-</style>
+/* mobile-overflow-fix: 2-column stat grid could not shrink below its content (377px on a 360px phone) */html,body{overflow-x:clip}.stats-grid>*,.benefit-grid>*,.price-grid>*{min-width:0}.stat-card{min-width:0;overflow-wrap:anywhere}@media(max-width:480px){.stats-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.stat-card{padding:20px 12px}}</style>
 </head>
 <body>
 <nav class="nav">
